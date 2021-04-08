@@ -1,0 +1,133 @@
+.plus_minus {
+  float: right;
+}
+.toggleContainer {
+  padding: 15px;
+  display: none;
+  transition: all;
+}
+.hiddenSlide {
+  display: none;
+  min-height: 428px;
+}
+/*Buttons*/
+.w3-third .w3-margin-bottom{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 12px;
+}
+
+ .w3-black,.w3-hover-black:hover{
+    color:#fff!important;
+    background-color:#A504E5!important;
+}
+
+ .w3-button:hover{
+    color:#A504E5!important;
+    background-color:#FEE29F!important
+}
+
+/*Send Button*/
+.w3-button {
+  border-radius: 12px;
+  width: 100px;
+}
+
+/*About*/
+#gif {
+  text-align: right; 
+  vertical-align: middle;
+}
+
+.mySlides {
+  padding-top: 1%;
+  border-bottom: solid #3504e5;
+}
+.containerHeight {
+  min-height: 428px;
+  background-color: black;
+}
+.active {
+  display: block;
+}
+.w3-bar-item{
+  font-family: 'Niramit', 'Roboto'; 
+} 
+
+h1 {
+  font-family: 'Niramit', 'Roboto';
+  color:#A504E5;
+  text-align: center;
+  font-size: 100px;
+  padding-top: 30px;
+}
+
+h2{
+  font-family: 'Niramit', 'Roboto';
+  font-size: 50px;
+  background-color: #FEE29F;
+}
+h3 {
+  font-family: 'Niramit', 'Roboto';
+  color: #A504E5;
+  font-size: 80px;
+}
+
+h4{
+  text-align: center;
+  font-family: 'Niramit', 'Roboto';
+}
+
+p {
+  font-family: 'Niramit', 'Roboto';
+  display: flex;
+  justify-content: space-evenly;
+  text-align: left;
+  margin: 5%;
+  margin-left: 20%;
+  color: #393570;
+}
+/*subheading on works & skills*/
+p b {
+ color: #A504E5;
+ text-align: left;
+}
+
+
+.fa {
+  color: #A504E5;
+}
+
+.w3-container{
+  width: 100%;
+  bottom: 0;
+}
+
+#subhead {
+  color: green;
+}
+
+#subtext {
+color: #5EDDFF;
+background-color: black;
+}
+
+.x_button {
+
+}
+.w3-top {
+  z-index:2;
+
+}
+
+/*footer text*/
+.w3-medium{
+    font-size:15px!important;
+    color: white;
+}
+
+
+
+
+
