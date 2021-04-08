@@ -440,7 +440,7 @@ a{
     width:auto;
     border:none;
     display:block;
-    outline:0
+    outline:0;
 }
  .w3-bar .w3-dropdown-hover,.w3-bar .w3-dropdown-click{
     position:static;
@@ -640,7 +640,7 @@ a{
         width:100%!important
     }
     .w3-bar-item.w3-mobile,.w3-dropdown-hover.w3-mobile,.w3-dropdown-click.w3-mobile{
-        text-align:center
+        text-align:center;
     }
      .w3-dropdown-hover.w3-mobile,.w3-dropdown-hover.w3-mobile .w3-btn,.w3-dropdown-hover.w3-mobile .w3-button,.w3-dropdown-click.w3-mobile,.w3-dropdown-click.w3-mobile .w3-btn,.w3-dropdown-click.w3-mobile .w3-button{
         width:100%
