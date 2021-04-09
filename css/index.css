@@ -25,7 +25,8 @@
 
  .w3-button:hover{
     color:#A504E5!important;
-    background-color:#FEE29F!important
+    background-color:#FEE29F!important;
+    border-radius: 0%;
 }
 
 /*Send Button*/
@@ -35,8 +36,7 @@
 }
 
 /*About*/
-#gif {
-  text-align: right; 
+#gif { 
   vertical-align: middle;
 }
 
