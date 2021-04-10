@@ -7,7 +7,16 @@
 
 /*Line on Bottom*/
 .container {
-  border-bottom:solid #A504E5;
+  border-bottom:solid #FEE29F;
+}
+
+#survey {
+  border-bottom: solid #FEE29F;
+}
+
+/*phone photo in AA*/
+#phone {
+  width: 100%;
 }
 
 .plus_minus {
