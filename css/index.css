@@ -60,13 +60,15 @@ h1 {
   color:#A504E5;
   text-align: center;
   font-size: 100px;
-  padding-top: 30px;
+  padding: 15px;
+  padding-bottom: 30px;
 }
 
 h2{
   font-family: 'Niramit', 'Roboto';
   font-size: 50px;
   background-color: #FEE29F;
+  color: #A504E5;
 }
 h3 {
   font-family: 'Niramit', 'Roboto';
@@ -87,6 +89,8 @@ p {
   margin: 5%;
   margin-left: 20%;
   color: #393570;
+  padding: 14%;
+  font-size: 18px;
 }
 /*subheading on works & skills*/
 p b {
@@ -119,6 +123,15 @@ background-color: black;
 .w3-top {
   z-index:2;
 }
+
+
+/*Images*/
+.works1 {
+  border:10px double#8DE6FD;
+  margin-bottom: 1.5%;
+}
+
+
 
 /*footer text*/
 .w3-medium{
